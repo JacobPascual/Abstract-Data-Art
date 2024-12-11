@@ -1,0 +1,105 @@
+Affenpinscher
+Afghan Hound
+Airedale Terrier
+Akbash Dog
+Akita
+Alapaha Blue Blood Bulldog
+Alaskan Husky
+Alaskan Malamute
+American Eskimo Dog
+American Foxhound
+American Pit Bull Terrier
+American Water Spaniel
+Anatolian Shepherd Dog
+Australian Kelpie
+Australian Shepherd
+Azawakh
+Basenji
+Basset Bleu de Gascogne
+Beagle
+Beauceron
+Bedlington Terrier
+Belgian Malinois
+Belgian Tervuren
+Bernese Mountain Dog
+Black and Tan Coonhound
+Bloodhound
+Bluetick Coonhound
+Boerboel
+Border Terrier
+Boston Terrier
+Bouvier des Flandres
+Boxer
+Boykin Spaniel
+Bracco Italiano
+Briard
+Brittany
+Bullmastiff
+Cairn Terrier
+Cane Corso
+Cardigan Welsh Corgi
+Catahoula Leopard Dog
+Caucasian Shepherd (Ovcharka)
+Cavalier King Charles Spaniel
+Chinese Crested
+Chinook
+Chow Chow
+Clumber Spaniel
+Cocker Spaniel (American)
+Coton de Tulear
+Dalmatian
+Dogo Argentino
+English Shepherd
+English Springer Spaniel
+Eurasier
+Field Spaniel
+Finnish Lapphund
+German Pinscher
+German Shepherd Dog
+German Shorthaired Pointer
+Giant Schnauzer
+Glen of Imaal Terrier
+Golden Retriever
+Gordon Setter
+Great Dane
+Great Pyrenees
+Greyhound
+Harrier
+Havanese
+Irish Setter
+Irish Wolfhound
+Italian Greyhound
+Japanese Chin
+Keeshond
+Komondor
+Kuvasz
+Labrador Retriever
+Lagotto Romagnolo
+Leonberger
+Lhasa Apso
+Maltese
+Miniature Schnauzer
+Newfoundland
+Norfolk Terrier
+Papillon
+Pembroke Welsh Corgi
+Pharaoh Hound
+Plott
+Pug
+Redbone Coonhound
+Rhodesian Ridgeback
+Rottweiler
+Samoyed
+Schipperke
+Scottish Deerhound
+Shih Tzu
+Silky Terrier
+Soft Coated Wheaten Terrier
+Spanish Water Dog
+Vizsla
+Weimaraner
+Welsh Springer Spaniel
+West Highland White Terrier
+Whippet
+Wirehaired Pointing Griffon
+Yorkshire Terrier
